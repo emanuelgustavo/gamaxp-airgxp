@@ -36,3 +36,7 @@ A atividade é individual, mas aproveite as maravilhas de ter um grupo para enri
 Suba o repositório no GitHub e sugerimos o Netlify para hospedagem.
 
 Na próxima semana, nosso conteúdo técnico será uma live onde o professor fará passo a passo a página e vocês poderão tirar dúvidas em tempo real!
+
+## Finalizado e publicado no Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb990223-f074-463d-92bb-56f09e45f256/deploy-status)](https://app.netlify.com/sites/airxperience/deploys)
