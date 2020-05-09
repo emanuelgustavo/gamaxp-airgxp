@@ -26,7 +26,7 @@ window.onload = () => {
         
         const priceElement = document.createElement('strong');
         priceElement.setAttribute('class', 'card-price');
-        priceElement.appendChild(document.createTextNode(price))
+        priceElement.appendChild(document.createTextNode(`R$ ${price} /diária`))
         
         const typeElement = document.createElement('span');
         typeElement.setAttribute('class', 'card-type');
